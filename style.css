@@ -25,4 +25,7 @@ html {
 	padding-bottom: 0px;
 	overflow: hidden;
 }
+.list-group-item{
+	border: none;
+}
 
